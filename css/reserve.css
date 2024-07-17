@@ -8,7 +8,7 @@ body {
 /* Navbar styles */
 .navbar {
     margin-bottom: 20px;
-    background-color: #007bff;
+    background-color: gray;
 }
 
 .navbar-brand, .nav-link {
@@ -23,7 +23,7 @@ body {
 header.jumbotron {
     background: url('../images/image5.jpg') no-repeat center center;
     background-size: cover;
-    color: orange;
+    color: maroon;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     padding: 100px 0;
 }
@@ -44,7 +44,7 @@ header.jumbotron .lead {
 
 /* Form styles */
 form {
-    background-color: white;
+    background-color: #40E0D0;;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
