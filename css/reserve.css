@@ -21,9 +21,9 @@ body {
 
 /* Header styles */
 header.jumbotron {
-    background: url('../images/hotel.jpg') no-repeat center center;
+    background: url('../images/image5.jpg') no-repeat center center;
     background-size: cover;
-    color: white;
+    color: orange;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     padding: 100px 0;
 }
